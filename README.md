@@ -1,8 +1,8 @@
 DOM Manipulations
 
 1. Selecting Using get Element
-   a. getElementbyId()
-   b. getElementsbyName()
+   <p>a. getElementbyId()</p>
+   <p>b. getElementsbyName()</p>
    c. getElementsbyTagName()
    d. getElementsbyClassName()
 
